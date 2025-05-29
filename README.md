@@ -8,7 +8,12 @@
 - 📊 Me interesa: identificar patrones y tendencias en los datos, generar insights y apoyar la toma de decisiones mediante análisis y dashboards.
 - 💼 Busco prácticas o proyectos donde pueda aplicar mis conocimientos
 - 🌱 Actualmente sigo aprendiendo sobre análisis de datos y dashboards interactivos
-- 📫 Puedes contactarme en: ceciruizcarhuamaca@gmail.com o www.linkedin.com/in/juliana-ruiz-carhuamaca-b83958120 
+- 📫 Puedes contactarme en: ceciruizcarhuamaca@gmail.com o www.linkedin.com/in/juliana-ruiz-carhuamaca-b83958120
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana_Ruiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juliana-ruiz-carhuamaca-b83958120)
+
 
 ## 🧰 Herramientas que estoy usando 
 
