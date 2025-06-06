@@ -13,8 +13,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-ceciruizcarhuamaca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ceciruizcarhuamaca@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana_Ruiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juliana-ruiz-carhuamaca-b83958120)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cecilia_Juliana_Ruiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cecilia-juliana-ruiz-carhuamaca)
 
 ## 🧰 Herramientas que estoy usando 
 
